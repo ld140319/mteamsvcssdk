@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+composer.phar
+vendor
+test.php
+*.log
+config/keys/*/rsa.pri
+config/dev.php
+tag_test.php
+config/local.php
+.DS_Store
