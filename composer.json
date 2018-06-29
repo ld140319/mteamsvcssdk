@@ -1,5 +1,8 @@
 {
     "name": "code_country/mteamsvcssdk",
+    "type": "library",
+    "version": "1.0.0",
+    "description": "common until class",
     "license": "MIT",
     "authors": [
         {
