@@ -13,6 +13,13 @@ use TFF\MTeamServicesSDK\Utils\HttpClient as HttpClient;
 /**
  * Class BaseService
  * @package Services
+ * @property array $errorMsg
+ * @property object $httpClient
+ * @property string $className
+ * @property string $host
+ * @property array $globalConfig
+ * @property array $config
+ * @const int SUCCESS_CODE
  */
 class BaseService
 {

@@ -10,15 +10,6 @@ namespace CMS\MTeamServicesSDK\Until;
 
 use CMS\MTeamServicesSDK\Until\LogUntil;
 
-/**
- * http请求类
- * 
- * @uses      HttpUntil
- * @version   2016年3月17日
- * @author    lilin <lilin@camera360.com>
- * @copyright Copyright 2010-2016 成都品果科技有限公司 
- * @license PHP Version 5.x {@link http://www.php.net/license/3_0.txt}
- */
 class HttpUntil extends BaseUntil
 {
 
